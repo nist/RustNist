@@ -1,0 +1,2 @@
+# RustNist
+Documentation on Rust
